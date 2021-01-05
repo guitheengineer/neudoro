@@ -2,7 +2,7 @@
   <img height="500px" src="https://i.ibb.co/pXb2mPF/image.png" alt="Screenshot" />
 </p>
 <h2 align="center">
-  ⏲ <a href="Neudoro">Neudoro</a> ⏲
+  ⏲ <a href="gsdeveloper.github/neudoro">Neudoro</a> ⏲
 </h2>
 <h3 align="center">
   A pomodoro clock with a neumorphism design that don't lose your progress and time left.
