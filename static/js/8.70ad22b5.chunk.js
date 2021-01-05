@@ -1,0 +1,2 @@
+(this.webpackJsonpneudoro=this.webpackJsonpneudoro||[]).push([[8],{47:function(s,o,t){"use strict";t.r(o),o.default=t.p+"static/media/sound.1d852134.svg"}}]);
+//# sourceMappingURL=8.70ad22b5.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpneudoro=this.webpackJsonpneudoro||[]).push([[5],{44:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/notification.13b14fbb.svg"}}]);
+//# sourceMappingURL=5.bef698b9.chunk.js.map
