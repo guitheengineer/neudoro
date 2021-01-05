@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500px" src="https://i.ibb.co/c37mYQt/image.png" alt="Screenshot" />
+  <img height="500px" src="https://i.ibb.co/pXb2mPF/image.png" alt="Screenshot" />
 </p>
 <h2 align="center">
   ⏲ <a href="Neudoro">Neudoro</a> ⏲
