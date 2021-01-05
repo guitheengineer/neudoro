@@ -39,7 +39,7 @@ const ControlButtons = () => {
       string2: string
     ) => {
       const imgPath = await import(
-        `assets/${condition ? string1 : string2}.svg`
+        `assets/${condition ? string1 : string2}.png`
       );
       state(imgPath.default);
     };
