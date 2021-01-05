@@ -71,7 +71,7 @@ const TimerMain = () => {
     () => {
       dispatch(setTimer('decrease'));
     },
-    isActive && timer > 0 ? 1000 : null
+    isActive && timer > 0 ? 60000 : null
   );
 
   return (
