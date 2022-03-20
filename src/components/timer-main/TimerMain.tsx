@@ -78,7 +78,7 @@ const TimerMain = () => {
     <>
       <TimerMainContainer>
         <DonutElement
-          linecap={'round'}
+          linecap="round"
           strokeWidth={4}
           styleTrack={{
             stroke: '#3C4163',
